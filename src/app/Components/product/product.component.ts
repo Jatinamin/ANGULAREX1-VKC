@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Product } from 'src/app/model/product.model';
+
 @Component({
   selector: 'app-details',
   templateUrl: './details.component.html',
